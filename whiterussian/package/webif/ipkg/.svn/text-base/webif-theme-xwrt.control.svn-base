@@ -1,6 +1,0 @@
-Package: webif-theme-xwrt
-Maintainer: Jeremy Collake
-Section: net
-Depends: webif
-Priority: normal
-Description: Original theme for webif^2.

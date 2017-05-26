@@ -1,5 +1,0 @@
-Package: freeradius-mod-ldap
-Priority: optional
-Section: net
-Depends: freeradius, libopenldap
-Description: LDAP module

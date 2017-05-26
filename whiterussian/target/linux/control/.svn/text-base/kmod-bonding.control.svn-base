@@ -1,4 +1,0 @@
-Package: kmod-bonding
-Priority: optional
-Section: sys
-Description: Kernel ethernet bonding driver

@@ -1,5 +1,0 @@
-Package: libcurl
-Depends: libopenssl, zlib
-Section: libs
-Priority: optional
-Description: A client-side URL transfer utility

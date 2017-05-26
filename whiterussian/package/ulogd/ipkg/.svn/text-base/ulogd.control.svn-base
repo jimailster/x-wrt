@@ -1,5 +1,0 @@
-Package: ulogd
-Priority: optional
-Section: net
-Depends: iptables
-Description: Netfilter userspace logging daemon

@@ -1,4 +1,0 @@
-Package: kmod-msdos 
-Priority: optional 
-Section: sys 
-Description: Kernel modules for MSDOS filesystem support 

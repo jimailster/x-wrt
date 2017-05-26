@@ -1,73 +1,0 @@
-10
-
-dir
-4987
-http://x-wrt.googlecode.com/svn/tags/kamikaze_7.09/package
-http://x-wrt.googlecode.com/svn
-
-
-
-2008-10-09T03:58:00.246252Z
-4474
-fofware@gmail.com
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-2dee665f-611b-0410-ab39-d748a57cfec1
-
-webif-netsukuku
-dir
-
-webif-lua-olsr
-dir
-
-webif-hotspot
-dir
-
-webif-batman
-dir
-
-webif
-dir
-
-netsukuku
-dir
-
-webif-lua-mesh-hotspot-setup
-dir
-
-webif-lua-freeradius
-dir
-
-webif-freeloader
-dir
-
-webif-olsr
-dir
-
-webif-lua
-dir
-
-webif-applications
-dir
-
-webif-lua-chillispot
-dir
-
-webif-lua-coova-chilli-xwrt
-dir
-
-webif-mesh
-dir
-

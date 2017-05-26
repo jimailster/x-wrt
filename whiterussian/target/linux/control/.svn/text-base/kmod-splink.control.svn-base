@@ -1,5 +1,0 @@
-Package: kmod-splink
-Priority: optional
-Section: sys
-Depends: kmod-parport, kmod-lp
-Description: Kernel modules for Asus WL500g parallel port support

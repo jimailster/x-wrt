@@ -1,5 +1,0 @@
-Package: nfacctd-mysql
-Priority: optional
-Section: net
-Depends: libmysqlclient, libpcap, zlib
-Description: with MySQL support

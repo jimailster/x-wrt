@@ -1,4 +1,0 @@
-Package: openssh-sftp-server
-Priority: optional
-Section: net
-Description: OpenSSH SFTP server

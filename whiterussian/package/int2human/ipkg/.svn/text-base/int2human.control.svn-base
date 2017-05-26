@@ -1,4 +1,0 @@
-Package: int2human
-Priority: optional
-Section: net
-Description: convert integers to human readable form

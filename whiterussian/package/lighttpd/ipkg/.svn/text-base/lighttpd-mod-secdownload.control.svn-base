@@ -1,5 +1,0 @@
-Package: lighttpd-mod-secdownload
-Priority: optional
-Section: net
-Description: a secure download module for lighttpd
-Depends: lighttpd

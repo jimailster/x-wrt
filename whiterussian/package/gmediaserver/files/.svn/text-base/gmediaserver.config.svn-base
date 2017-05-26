@@ -1,4 +1,0 @@
-config gmediaserver
-	option enabled	'0'
-	option content_directory '/tmp'
-	option interface         'br0'

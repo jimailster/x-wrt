@@ -1,5 +1,0 @@
-Package: pmacctd-sqlite
-Priority: optional
-Section: net
-Depends: libsqlite3, libpcap, zlib
-Description: with SQLite support

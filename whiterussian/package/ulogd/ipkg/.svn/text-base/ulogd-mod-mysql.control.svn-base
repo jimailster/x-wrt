@@ -1,5 +1,0 @@
-Package: ulogd-mod-mysql
-Priority: optional
-Section: net
-Depends: libmysqlclient, ulogd
-Description: Output plugin for logging to a MySQL database

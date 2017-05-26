@@ -1,5 +1,0 @@
-Package: libpq
-Priority: optional
-Section: libs
-Depends: zlib
-Description: PostgreSQL client library

@@ -1,5 +1,0 @@
-Package: sipsak
-Priority: optional
-Section: net
-Depends: libopenssl
-Description: SIP (Session Initiation Protocol) stress and diagnostics utility

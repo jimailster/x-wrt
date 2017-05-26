@@ -1,5 +1,0 @@
-Package: freeradius-mod-sql
-Priority: optional
-Section: net
-Depends: freeradius
-Description: Base SQL module

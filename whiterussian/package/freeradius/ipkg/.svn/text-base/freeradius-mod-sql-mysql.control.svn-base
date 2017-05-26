@@ -1,5 +1,0 @@
-Package: freeradius-mod-sql-mysql
-Priority: optional
-Section: net
-Depends: freeradius-mod-sql, libmysqlclient
-Description: MySQL module

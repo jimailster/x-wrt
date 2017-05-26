@@ -1,4 +1,0 @@
-Package: dsl-qos-queue
-Priority: optional
-Section: net
-Description: ADSL/ATM Bandwith management

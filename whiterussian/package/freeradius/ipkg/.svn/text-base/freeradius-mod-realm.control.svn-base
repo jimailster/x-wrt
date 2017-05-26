@@ -1,5 +1,0 @@
-Package: freeradius-mod-realm
-Priority: optional
-Section: net
-Depends: freeradius
-Description: Realms handling module

@@ -1,5 +1,0 @@
-Package: pmacctd
-Priority: optional
-Section: net
-Depends: libpcap, zlib
-Description: IP pcap-based accounting daemon

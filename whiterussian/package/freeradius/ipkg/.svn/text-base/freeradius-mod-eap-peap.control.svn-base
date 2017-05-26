@@ -1,5 +1,0 @@
-Package: freeradius-mod-eap-peap
-Priority: optional
-Section: net
-Depends: freeradius-mod-eap
-Description: EAP/PEAP module

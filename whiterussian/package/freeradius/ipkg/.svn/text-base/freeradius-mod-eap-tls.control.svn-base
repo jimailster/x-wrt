@@ -1,5 +1,0 @@
-Package: freeradius-mod-eap-tls
-Priority: optional
-Section: net
-Depends: freeradius-mod-eap
-Description: EAP/TLS module

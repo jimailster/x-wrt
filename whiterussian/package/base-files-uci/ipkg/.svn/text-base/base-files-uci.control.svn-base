@@ -1,4 +1,0 @@
-Package: base-files-uci
-Priority: optional
-Section: system
-Description: UCI support scripts

@@ -1,5 +1,0 @@
-<hr>
-<% item.send(relationship.name).each do |record| %>
-	<%= fields.collect {|f| record.send(f)}.join(":") + "<br/>" %>
-<% end %>
-<hr>

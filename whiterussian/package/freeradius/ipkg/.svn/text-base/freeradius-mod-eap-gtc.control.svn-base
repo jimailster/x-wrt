@@ -1,5 +1,0 @@
-Package: freeradius-mod-eap-gtc
-Priority: optional
-Section: net
-Depends: freeradius-mod-eap
-Description: EAP/GTC module

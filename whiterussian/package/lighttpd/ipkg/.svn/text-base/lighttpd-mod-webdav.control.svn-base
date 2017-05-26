@@ -1,5 +1,0 @@
-Package: lighttpd-mod-webdav
-Priority: optional
-Section: net
-Description: a WebDAV module for lighttpd
-Depends: lighttpd, libxml2, zlib, libpthread, libsqlite3

@@ -1,5 +1,0 @@
-Package: freeradius-mod-eap-mschapv2
-Priority: optional
-Section: net
-Depends: freeradius-mod-eap
-Description: EAP/MS-CHAPv2 module

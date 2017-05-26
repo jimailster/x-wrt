@@ -1,5 +1,0 @@
-Package: pmacct-client
-Priority: optional
-Section: net
-Depends: libpcap, zlib, libsqlite3
-Description: Command-line client to gather data from the IMT plugin

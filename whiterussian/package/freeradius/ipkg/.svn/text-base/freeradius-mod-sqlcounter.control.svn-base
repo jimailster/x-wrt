@@ -1,5 +1,0 @@
-Package: freeradius-mod-sqlcounter
-Priority: optional
-Section: net
-Depends: freeradius-mod-sql
-Description: Generic SQL Counter module

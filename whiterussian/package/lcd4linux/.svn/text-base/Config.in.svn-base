@@ -1,9 +1,0 @@
-config BR2_PACKAGE_LCD4LINUX
-	tristate "lcd4linux - LCD display utility"
-	default m if CONFIG_DEVEL
-	select BR2_PACKAGE_LIBNCURSES
-	help
-	  LCD4Linux is a small program that grabs information from the kernel and 
-	  some subsystems and displays it on an external liquid crystal display.
-	  
-	  http://lcd4linux.bulix.org/

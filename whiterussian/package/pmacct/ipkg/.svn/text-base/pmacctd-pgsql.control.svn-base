@@ -1,5 +1,0 @@
-Package: pmacctd-pgsql
-Priority: optional
-Section: net
-Depends: libpq, libpcap, zlib
-Description: with PostreSQL support

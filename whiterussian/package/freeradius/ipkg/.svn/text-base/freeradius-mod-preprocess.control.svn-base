@@ -1,5 +1,0 @@
-Package: freeradius-mod-preprocess
-Priority: optional
-Section: net
-Depends: freeradius
-Description: Request pre-processing module

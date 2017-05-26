@@ -1,5 +1,0 @@
-Package: freeradius-mod-chap
-Priority: optional
-Section: net
-Depends: freeradius
-Description: CHAP module

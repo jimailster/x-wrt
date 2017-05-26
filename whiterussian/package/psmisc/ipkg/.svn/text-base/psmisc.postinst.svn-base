@@ -1,9 +1,0 @@
-#!/bin/sh
-
-if [ -f ${IPKG_INSTROOT}/usr/bin/killall ]
-then
-    echo "Hard linking pidof to killall"
-    ln ${IPKG_INSTROOT}/usr/bin/killall ${IPKG_INSTROOT}/bin/pidof
-fi
-
-exit 0

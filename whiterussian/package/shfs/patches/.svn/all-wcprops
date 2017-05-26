@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3398/whiterussian/package/shfs/patches
+END
+101-kmod-build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/shfs/patches/101-kmod-build.patch
+END
+102-utils-build-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/shfs/patches/102-utils-build-fixes.patch
+END

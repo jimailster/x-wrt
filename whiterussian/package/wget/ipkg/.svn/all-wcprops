@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3818/whiterussian/package/wget/ipkg
+END
+wget.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3818/whiterussian/package/wget/ipkg/wget.preinst
+END
+wget-nossl.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3814/whiterussian/package/wget/ipkg/wget-nossl.conffiles
+END
+wget.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3818/whiterussian/package/wget/ipkg/wget.postrm
+END
+wget.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3814/whiterussian/package/wget/ipkg/wget.conffiles
+END
+wget-nossl.control
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3814/whiterussian/package/wget/ipkg/wget-nossl.control
+END
+wget-nossl.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3818/whiterussian/package/wget/ipkg/wget-nossl.preinst
+END
+wget.control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3814/whiterussian/package/wget/ipkg/wget.control
+END
+wget-nossl.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3818/whiterussian/package/wget/ipkg/wget-nossl.postrm
+END

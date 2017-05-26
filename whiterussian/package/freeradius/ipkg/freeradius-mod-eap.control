@@ -1,0 +1,5 @@
+Package: freeradius-mod-eap
+Priority: optional
+Section: net
+Depends: freeradius
+Description: Base EAP module

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches
+END
+102-debian_pppoe_multicast_pado.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/102-debian_pppoe_multicast_pado.patch
+END
+202-no_atm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/202-no_atm.patch
+END
+300-filter-pcap-includes-lib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/300-filter-pcap-includes-lib.patch
+END
+205-pppoe_iface_name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/205-pppoe_iface_name.patch
+END
+204-opt_flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/204-opt_flags.patch
+END
+206-radius_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/206-radius_config.patch
+END
+106-debian_pppoatm_fix_mtu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/106-debian_pppoatm_fix_mtu.patch
+END
+100-debian_close_dev_ppp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/100-debian_close_dev_ppp.patch
+END
+101-debian_ip-up_option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/101-debian_ip-up_option.patch
+END
+209-compensate_time_change.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/209-compensate_time_change.patch
+END
+105-debian_pppoatm_cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/105-debian_pppoatm_cleanup.patch
+END
+103-debian_pppoe_cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/103-debian_pppoe_cleanup.patch
+END
+201-mppe_mppc_1.1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/201-mppe_mppc_1.1.patch
+END
+208-no_exponential_timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/208-no_exponential_timeout.patch
+END
+203-no_strip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/203-no_strip.patch
+END
+107-debian_stripMSdomain.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/107-debian_stripMSdomain.patch
+END
+109-debian_demand.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/109-debian_demand.patch
+END
+104-debian_fix_linkpidfile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/104-debian_fix_linkpidfile.patch
+END
+207-ppp_reconnect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/207-ppp_reconnect.patch
+END
+210-lcp_mtu_max.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/210-lcp_mtu_max.patch
+END
+310-precompiled_filter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/310-precompiled_filter.patch
+END
+108-debian_defaultroute.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/108-debian_defaultroute.patch
+END
+200-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/ppp/patches/200-makefile.patch
+END

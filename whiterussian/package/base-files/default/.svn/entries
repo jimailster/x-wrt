@@ -1,0 +1,43 @@
+10
+
+dir
+4987
+http://x-wrt.googlecode.com/svn/whiterussian/package/base-files/default
+http://x-wrt.googlecode.com/svn
+
+
+
+2008-03-11T13:56:02.746169Z
+4049
+lubek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2dee665f-611b-0410-ab39-d748a57cfec1
+
+sbin
+dir
+
+etc
+dir
+
+rom
+dir
+
+bin
+dir
+
+usr
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4778/tags/kamikaze_8.09.1/package/webif-vpn/files/etc/init.d
+END
+webifopenvpn
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4778/tags/kamikaze_8.09.1/package/webif-vpn/files/etc/init.d/webifopenvpn
+END
+l2tpns
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-vpn/files/etc/init.d/l2tpns
+END

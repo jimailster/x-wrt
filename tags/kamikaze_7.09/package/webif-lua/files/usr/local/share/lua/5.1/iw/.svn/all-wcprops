@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4223/tags/kamikaze_7.09/package/webif-lua/files/usr/local/share/lua/5.1/iw
+END
+webpkg.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4223/tags/kamikaze_7.09/package/webif-lua/files/usr/local/share/lua/5.1/iw/webpkg.lua
+END
+luapkg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4220/tags/kamikaze_7.09/package/webif-lua/files/usr/local/share/lua/5.1/iw/luapkg
+END
+system.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4212/tags/kamikaze_7.09/package/webif-lua/files/usr/local/share/lua/5.1/iw/system.lua
+END
+iw-luaipkg.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4223/tags/kamikaze_7.09/package/webif-lua/files/usr/local/share/lua/5.1/iw/iw-luaipkg.lua
+END

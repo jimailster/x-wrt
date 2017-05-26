@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4468/tags/kamikaze_7.09/package/webif-lua-freeradius/ipkg
+END
+iw-freeradius.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4468/tags/kamikaze_7.09/package/webif-lua-freeradius/ipkg/iw-freeradius.postinst
+END
+iw-freeradius.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4468/tags/kamikaze_7.09/package/webif-lua-freeradius/ipkg/iw-freeradius.postrm
+END

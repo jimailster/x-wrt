@@ -1,0 +1,79 @@
+10
+
+dir
+4987
+http://x-wrt.googlecode.com/svn/tags/kamikaze_8.09.1/package
+http://x-wrt.googlecode.com/svn
+
+
+
+2009-08-15T16:02:34.561820Z
+4803
+lubekgc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+2dee665f-611b-0410-ab39-d748a57cfec1
+
+webif-iw-lua-freeradius
+dir
+
+webif-applications
+dir
+
+webif-iw-lua-coovachilli
+dir
+
+webif-mesh
+dir
+
+m-route
+dir
+
+webif-iw-lua
+dir
+
+webif-netsukuku
+dir
+
+webif-hotspot
+dir
+
+webif-batman
+dir
+
+webif-fonheartbeat
+dir
+
+webif
+dir
+
+webif-vpn
+dir
+
+netsukuku
+dir
+
+webif-iw-lua-mroute
+dir
+
+webif-freeloader
+dir
+
+webif-iw-lua-olsr
+dir
+
+webif-iw-lua-mesh-hotspot-freeradius
+dir
+

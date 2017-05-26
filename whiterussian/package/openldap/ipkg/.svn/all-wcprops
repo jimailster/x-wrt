@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3905/whiterussian/package/openldap/ipkg
+END
+openldap-utils.control
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3905/whiterussian/package/openldap/ipkg/openldap-utils.control
+END
+libopenldap.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/openldap/ipkg/libopenldap.conffiles
+END
+libopenldap.control
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3905/whiterussian/package/openldap/ipkg/libopenldap.control
+END

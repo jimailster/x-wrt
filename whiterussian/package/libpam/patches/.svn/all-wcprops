@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3729/whiterussian/package/libpam/patches
+END
+003-no_doc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3729/whiterussian/package/libpam/patches/003-no_doc.patch
+END
+001-no_nis.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3729/whiterussian/package/libpam/patches/001-no_nis.patch
+END
+002-no_yywrap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3729/whiterussian/package/libpam/patches/002-no_yywrap.patch
+END

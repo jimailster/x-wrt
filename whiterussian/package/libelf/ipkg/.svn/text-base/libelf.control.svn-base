@@ -1,0 +1,4 @@
+Package: libelf
+Priority: optional
+Section: libs
+Description: ELF object file access library

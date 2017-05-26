@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/sbin
+END
+hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/sbin/hotplug
+END
+ifup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/sbin/ifup
+END
+mount_root
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/sbin/mount_root
+END
+ifdown
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/sbin/ifdown
+END
+hotplug.failsafe
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/sbin/hotplug.failsafe
+END

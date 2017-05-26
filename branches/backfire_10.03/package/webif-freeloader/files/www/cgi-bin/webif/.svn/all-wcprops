@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/www/cgi-bin/webif
+END
+freeloader-log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/www/cgi-bin/webif/freeloader-log.sh
+END
+freeloader-uploadcallback.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/www/cgi-bin/webif/freeloader-uploadcallback.sh
+END
+freeloader-status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/www/cgi-bin/webif/freeloader-status.sh
+END
+freeloader-upload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/www/cgi-bin/webif/freeloader-upload.sh
+END

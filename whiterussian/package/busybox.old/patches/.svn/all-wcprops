@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches
+END
+100-killall5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/100-killall5.patch
+END
+130-hexdump.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/130-hexdump.patch
+END
+351-telnet-opt-srcaddr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/351-telnet-opt-srcaddr.patch
+END
+350-ping-opt-srcaddr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/350-ping-opt-srcaddr.patch
+END
+310-passwd_access.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/310-passwd_access.patch
+END
+150-udhcp-release.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/150-udhcp-release.patch
+END
+151-udhcp-no_requested_ip_on_dhcprelease.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/151-udhcp-no_requested_ip_on_dhcprelease.patch
+END
+330-httpd_address_binding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/330-httpd_address_binding.patch
+END
+230-passwd_salt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/230-passwd_salt.patch
+END
+340-lock_util.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/340-lock_util.patch
+END
+120-no_login_for_telnetd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/120-no_login_for_telnetd.patch
+END
+300-netmsg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/300-netmsg.patch
+END
+110-telnetd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/110-telnetd.patch
+END
+210-passwd_limit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/210-passwd_limit.patch
+END
+180-ping-endian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/180-ping-endian.patch
+END
+160-tar_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/160-tar_fix.patch
+END
+170-udhcp-options.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/170-udhcp-options.patch
+END
+140-unlink-passwd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/140-unlink-passwd.patch
+END
+320-httpd_user_agent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/320-httpd_user_agent.patch
+END
+190-ash_performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/190-ash_performance.patch
+END
+220-awk_bitops.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/220-awk_bitops.patch
+END
+200-etc_crontabs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/busybox.old/patches/200-etc_crontabs.patch
+END

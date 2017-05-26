@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4234/whiterussian/target/linux/linux-2.4/patches/generic
+END
+214-net-ipv4-netfilter-ip_recent-last_pkts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/214-net-ipv4-netfilter-ip_recent-last_pkts.patch
+END
+117-netfilter_nat_rtsp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/117-netfilter_nat_rtsp.patch
+END
+113-netfilter_imq.diff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/113-netfilter_imq.diff
+END
+213-mtd_security.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/213-mtd_security.patch
+END
+215_net-bridge-if_del-panic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/215_net-bridge-if_del-panic.patch
+END
+108-optional_aout_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/108-optional_aout_support.patch
+END
+122-netfilter_TARPIT.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/122-netfilter_TARPIT.patch
+END
+218-more_usb_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/218-more_usb_fixes.patch
+END
+120-netfilter_string.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/120-netfilter_string.patch
+END
+223-mini_fo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/223-mini_fo.patch
+END
+000-linux_mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/000-linux_mips.patch
+END
+121-amd_flash_timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/121-amd_flash_timeout.patch
+END
+102-netfilter_layer7_1.5nbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/102-netfilter_layer7_1.5nbd.patch
+END
+118-netfilter_connbytes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/118-netfilter_connbytes.patch
+END
+003-jffs2_compression.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/003-jffs2_compression.patch
+END
+005-extra_optimization.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/005-extra_optimization.patch
+END
+001-squashfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/001-squashfs.patch
+END
+110-netdev_random_core.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/110-netdev_random_core.patch
+END
+101-netfilter_ipp2p_0.8.1rc1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/101-netfilter_ipp2p_0.8.1rc1.patch
+END
+220-usbserial_3g_cards.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3747/whiterussian/target/linux/linux-2.4/patches/generic/220-usbserial_3g_cards.patch
+END
+103-netfilter_nat_pptp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/103-netfilter_nat_pptp.patch
+END
+115-netfilter_multiport_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/115-netfilter_multiport_backport.patch
+END
+007-intel_flashchip_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/007-intel_flashchip_fix.patch
+END
+111-bridging_performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/111-bridging_performance.patch
+END
+202-pl2303_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/202-pl2303_backport.patch
+END
+004-exec_pagesize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/004-exec_pagesize.patch
+END
+209-mkdep_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/209-mkdep_fix.patch
+END
+002-squashfs_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/002-squashfs_lzma.patch
+END
+104-netfilter_maxconn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/104-netfilter_maxconn.patch
+END
+222-pppoe_mtu_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/222-pppoe_mtu_fix.patch
+END
+207-gcc_4.0_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/207-gcc_4.0_fixes.patch
+END
+105-netfilter_TTL.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/105-netfilter_TTL.patch
+END
+221-ppp_kfree_skb_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/221-ppp_kfree_skb_fix.patch
+END
+211-htb_disable_hysteresis.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/211-htb_disable_hysteresis.patch
+END
+206-gcc_3.4_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/206-gcc_3.4_fixes.patch
+END
+106-mppe_mppc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/106-mppe_mppc.patch
+END
+112-netfilter_connmark.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/112-netfilter_connmark.patch
+END
+114-ebtables-brnf-10.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/114-ebtables-brnf-10.patch
+END
+200-i4l.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/200-i4l.patch
+END
+900-hotfixes-36.4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4234/whiterussian/target/linux/linux-2.4/patches/generic/900-hotfixes-36.4.patch
+END
+208-usb2_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/208-usb2_fix.patch
+END
+205-gcc_3.4_ldscript.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/205-gcc_3.4_ldscript.patch
+END
+107-cifs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/107-cifs.patch
+END
+212-usb_ehci_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/212-usb_ehci_fix.patch
+END
+006-winbond_flashchip_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/006-winbond_flashchip_fix.patch
+END
+219-usbserial_buffer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3747/whiterussian/target/linux/linux-2.4/patches/generic/219-usbserial_buffer.patch
+END
+203-hfsplus_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/203-hfsplus_fix.patch
+END
+224-tun_get_user_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/224-tun_get_user_backport.patch
+END
+201-hfc_usb_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/201-hfc_usb_backport.patch
+END
+008-mtd_uaccess.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/008-mtd_uaccess.patch
+END
+109-ipsec_nat_traversal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/109-ipsec_nat_traversal.patch
+END
+119-netfilter_classify.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/119-netfilter_classify.patch
+END
+210-htb_time_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/210-htb_time_fix.patch
+END
+116-netfilter_nat_h323.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/116-netfilter_nat_h323.patch
+END
+217-jffs2_eofdetect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/generic/217-jffs2_eofdetect.patch
+END

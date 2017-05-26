@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib
+END
+relevance_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib/relevance_extensions.rb
+END
+streamlined_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib/streamlined_ui.rb
+END
+module_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib/module_extensions.rb
+END
+active_record_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib/active_record_extensions.rb
+END
+streamlined_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib/streamlined_controller.rb
+END
+streamlined_relationships.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4686/wib/vendor/plugins/relevance_extensions/lib/streamlined_relationships.rb
+END

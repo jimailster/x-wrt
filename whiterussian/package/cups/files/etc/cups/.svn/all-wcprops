@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3398/whiterussian/package/cups/files/etc/cups
+END
+classes.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/cups/files/etc/cups/classes.conf
+END
+client.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/cups/files/etc/cups/client.conf
+END
+cupsd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/cups/files/etc/cups/cupsd.conf
+END
+printers.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/cups/files/etc/cups/printers.conf
+END

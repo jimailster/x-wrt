@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3908/whiterussian/package/lua/patches
+END
+010-shared_liblua.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3908/whiterussian/package/lua/patches/010-shared_liblua.patch
+END

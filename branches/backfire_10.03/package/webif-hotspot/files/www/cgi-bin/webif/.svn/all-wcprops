@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-hotspot/files/www/cgi-bin/webif
+END
+hotspot-core.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-hotspot/files/www/cgi-bin/webif/hotspot-core.sh
+END
+hotspot-captive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-hotspot/files/www/cgi-bin/webif/hotspot-captive.sh
+END
+hotspot-networking.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-hotspot/files/www/cgi-bin/webif/hotspot-networking.sh
+END

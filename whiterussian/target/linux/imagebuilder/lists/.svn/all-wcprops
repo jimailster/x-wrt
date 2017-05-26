@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3672/whiterussian/target/linux/imagebuilder/lists
+END
+default.brcm-2.4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3672/whiterussian/target/linux/imagebuilder/lists/default.brcm-2.4
+END
+pptp_extra.brcm-2.4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3672/whiterussian/target/linux/imagebuilder/lists/pptp_extra.brcm-2.4
+END
+default_extra.brcm-2.4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3672/whiterussian/target/linux/imagebuilder/lists/default_extra.brcm-2.4
+END
+pptp.brcm-2.4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3672/whiterussian/target/linux/imagebuilder/lists/pptp.brcm-2.4
+END

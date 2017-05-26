@@ -1,0 +1,5 @@
+Package: freeradius-mod-sql-pgsql
+Priority: optional
+Section: net
+Depends: freeradius-mod-sql, libpq
+Description: PostgreSQL module

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3908/whiterussian/package/lua/ipkg
+END
+lua-examples.control
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3908/whiterussian/package/lua/ipkg/lua-examples.control
+END
+lua.control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3908/whiterussian/package/lua/ipkg/lua.control
+END
+luac.control
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3908/whiterussian/package/lua/ipkg/luac.control
+END
+liblua.control
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3908/whiterussian/package/lua/ipkg/liblua.control
+END

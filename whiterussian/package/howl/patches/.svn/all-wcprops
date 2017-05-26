@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3838/whiterussian/package/howl/patches
+END
+300-pkgconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3838/whiterussian/package/howl/patches/300-pkgconfig.patch
+END
+200-proto_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3838/whiterussian/package/howl/patches/200-proto_fix.patch
+END
+150-debug_log.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3838/whiterussian/package/howl/patches/150-debug_log.patch
+END
+100-config_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3838/whiterussian/package/howl/patches/100-config_path.patch
+END

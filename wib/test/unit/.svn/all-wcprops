@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4686/wib/test/unit
+END
+features_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/test/unit/features_test.rb
+END
+packages_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/test/unit/packages_test.rb
+END
+preselections_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4686/wib/test/unit/preselections_test.rb
+END
+notifier_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/test/unit/notifier_test.rb
+END
+archs_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4686/wib/test/unit/archs_test.rb
+END
+models_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4686/wib/test/unit/models_test.rb
+END
+kernels_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4686/wib/test/unit/kernels_test.rb
+END
+categories_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4686/wib/test/unit/categories_test.rb
+END
+filesystems_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4686/wib/test/unit/filesystems_test.rb
+END
+maintainer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4686/wib/test/unit/maintainer_test.rb
+END
+boards_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4686/wib/test/unit/boards_test.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/usr/sbin
+END
+killfreeloader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/usr/sbin/killfreeloader.sh
+END
+getfreeloader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-freeloader/files/usr/sbin/getfreeloader.sh
+END

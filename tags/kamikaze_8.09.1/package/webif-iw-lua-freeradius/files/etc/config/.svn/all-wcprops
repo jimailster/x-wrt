@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-iw-lua-freeradius/files/etc/config
+END
+freeradius_reply
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-iw-lua-freeradius/files/etc/config/freeradius_reply
+END
+freeradius_check
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-iw-lua-freeradius/files/etc/config/freeradius_check
+END
+freeradius
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-iw-lua-freeradius/files/etc/config/freeradius
+END
+freeradius_clients
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-iw-lua-freeradius/files/etc/config/freeradius_clients
+END
+freeradius_proxy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-iw-lua-freeradius/files/etc/config/freeradius_proxy
+END

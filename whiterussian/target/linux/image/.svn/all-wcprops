@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4111/whiterussian/target/linux/image
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3398/whiterussian/target/linux/image/Makefile
+END
+jffs2.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3398/whiterussian/target/linux/image/jffs2.mk
+END
+squashfs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/target/linux/image/squashfs.mk
+END

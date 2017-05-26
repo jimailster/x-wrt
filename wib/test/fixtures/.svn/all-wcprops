@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4686/wib/test/fixtures
+END
+models.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4686/wib/test/fixtures/models.yml
+END
+kernels.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4686/wib/test/fixtures/kernels.yml
+END
+filesystems.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4686/wib/test/fixtures/filesystems.yml
+END
+boards.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4686/wib/test/fixtures/boards.yml
+END
+maintainers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4686/wib/test/fixtures/maintainers.yml
+END
+category.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/test/fixtures/category.yml
+END
+features.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/test/fixtures/features.yml
+END
+packages.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/test/fixtures/packages.yml
+END
+preselections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4686/wib/test/fixtures/preselections.yml
+END
+archs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4686/wib/test/fixtures/archs.yml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3867/whiterussian/package/ntp/ipkg
+END
+ntpd.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3867/whiterussian/package/ntp/ipkg/ntpd.conffiles
+END
+ntpd-tools.control
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3867/whiterussian/package/ntp/ipkg/ntpd-tools.control
+END
+ntpd.control
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3867/whiterussian/package/ntp/ipkg/ntpd.control
+END
+ntpd.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3867/whiterussian/package/ntp/ipkg/ntpd.postinst
+END

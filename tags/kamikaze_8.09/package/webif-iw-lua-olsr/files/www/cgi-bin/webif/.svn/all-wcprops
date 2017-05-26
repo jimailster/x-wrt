@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4489/tags/kamikaze_8.09/package/webif-iw-lua-olsr/files/www/cgi-bin/webif
+END
+olsr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4489/tags/kamikaze_8.09/package/webif-iw-lua-olsr/files/www/cgi-bin/webif/olsr.sh
+END
+status-olsr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4489/tags/kamikaze_8.09/package/webif-iw-lua-olsr/files/www/cgi-bin/webif/status-olsr.sh
+END
+olsr-show-vizdata.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4489/tags/kamikaze_8.09/package/webif-iw-lua-olsr/files/www/cgi-bin/webif/olsr-show-vizdata.lua
+END

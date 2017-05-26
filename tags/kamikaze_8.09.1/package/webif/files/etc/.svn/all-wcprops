@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4774/tags/kamikaze_8.09.1/package/webif/files/etc
+END
+dnsmasq.options
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif/files/etc/dnsmasq.options
+END
+httpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif/files/etc/httpd.conf
+END

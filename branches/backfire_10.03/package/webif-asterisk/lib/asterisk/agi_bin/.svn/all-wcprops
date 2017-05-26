@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin
+END
+getnvram.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/getnvram.sh
+END
+web_audio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/web_audio.txt
+END
+get_config_file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/get_config_file.sh
+END
+islocalprefix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/islocalprefix.sh
+END
+web_audio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/web_audio.sh
+END
+send_wa_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/send_wa_dir.sh
+END
+getnvramvars.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/getnvramvars.sh
+END
+getlocalprefixes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/lib/asterisk/agi_bin/getlocalprefixes.sh
+END

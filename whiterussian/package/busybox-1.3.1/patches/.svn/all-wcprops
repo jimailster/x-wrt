@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches
+END
+250-ash_export-n.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/250-ash_export-n.patch
+END
+210-sizeof_long_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/210-sizeof_long_check.patch
+END
+401-darwin_includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/401-darwin_includes.patch
+END
+120-ping-no_warnings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/120-ping-no_warnings.patch
+END
+110-no_shadow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/110-no_shadow.patch
+END
+914-ipkg-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/914-ipkg-fixes.patch
+END
+310-passwd_access.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/310-passwd_access.patch
+END
+912-ipkg-no_warnings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/912-ipkg-no_warnings.patch
+END
+913-libbb_hash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/913-libbb_hash.patch
+END
+340-lock_util.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/340-lock_util.patch
+END
+130-trylink_bash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/130-trylink_bash.patch
+END
+241-udhcpc-oversized_packets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/241-udhcpc-oversized_packets.patch
+END
+400-revert_awk_getopt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/400-revert_awk_getopt.patch
+END
+300-netmsg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/300-netmsg.patch
+END
+330-httpd_user_agent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/330-httpd_user_agent.patch
+END
+911-ipkg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/911-ipkg.patch
+END
+130-drop_werror.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/130-drop_werror.patch
+END
+200-etc_crontabs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/200-etc_crontabs.patch
+END
+240-udhcpc_retries.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/busybox-1.3.1/patches/240-udhcpc_retries.patch
+END

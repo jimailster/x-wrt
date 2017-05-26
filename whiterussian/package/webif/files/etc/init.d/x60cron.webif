@@ -1,0 +1,59 @@
+#!/bin/sh
+#
+# crond           Starts crond
+#
+
+# crontabs are here
+etc_crontabs="/etc/crontabs"
+crond_temp="/var/spool/cron"
+# sure it exists
+mkdir -p "$etc_crontabs"
+mkdir -p "$crond_temp"
+
+getPID(){
+	echo `ps | grep '[/]usr/sbin/crond' | awk '{ print $1 }'`
+}
+
+start() {
+	if [ "$(nvram get cron_enable)" = "1" ]; then
+		pid=$(getPID)
+		if [ -z "$pid" ]; then
+			echo -n "Starting crond: "
+			( /usr/sbin/crond && echo "OK" ) || echo "ERROR"
+		else
+			echo "crond is already started"
+		fi
+	else
+		echo "crond is disabled"
+	fi
+}
+
+stop() {
+	pid=$(getPID)
+	if [ -n "$pid" ]; then
+		echo -n "Stopping crond: "
+		( {
+			kill $pid >/dev/null 2>&1
+		} && echo "OK" ) || echo "ERROR"
+	else
+		echo "crond is not running"
+	fi
+}
+
+case "$1" in
+	start)
+		start
+		;;
+	stop)
+		stop
+		;;
+	reload|restart)
+		stop
+		start
+		;;
+	*)
+		echo $"Usage: $0 {start|stop|reload|restart}"
+		exit 1
+esac
+
+exit $?

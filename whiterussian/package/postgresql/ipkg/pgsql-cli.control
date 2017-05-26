@@ -1,0 +1,5 @@
+Package: pgsql-cli
+Priority: optional
+Section: utils
+Depends: libpq
+Description: Command Line Interface (CLI) to PostgreSQL databases

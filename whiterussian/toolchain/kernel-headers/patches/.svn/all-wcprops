@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4234/whiterussian/toolchain/kernel-headers/patches
+END
+100-sync_to_target.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4234/whiterussian/toolchain/kernel-headers/patches/100-sync_to_target.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches
+END
+01-debian-2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches/01-debian-2.patch
+END
+04-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches/04-gcc4.patch
+END
+02-debian-2-pty-rev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches/02-debian-2-pty-rev.patch
+END
+04-nonblock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches/04-nonblock.patch
+END
+03-jacco-pty.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches/03-jacco-pty.patch
+END
+05-df-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/patches/05-df-disable.patch
+END

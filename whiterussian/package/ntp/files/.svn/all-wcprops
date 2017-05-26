@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3867/whiterussian/package/ntp/files
+END
+step-servers
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3867/whiterussian/package/ntp/files/step-servers
+END
+ntp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3867/whiterussian/package/ntp/files/ntp.conf
+END
+ntpd.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3867/whiterussian/package/ntp/files/ntpd.hotplug
+END
+ntpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3867/whiterussian/package/ntp/files/ntpd.init
+END

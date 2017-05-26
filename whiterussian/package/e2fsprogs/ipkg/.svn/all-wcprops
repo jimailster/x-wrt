@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3945/whiterussian/package/e2fsprogs/ipkg
+END
+tune2fs.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/e2fsprogs/ipkg/tune2fs.control
+END
+e2fsprogs.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/e2fsprogs/ipkg/e2fsprogs.control
+END
+resize2fs.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/e2fsprogs/ipkg/resize2fs.control
+END
+libuuid.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/e2fsprogs/ipkg/libuuid.control
+END
+uuidgen.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3945/whiterussian/package/e2fsprogs/ipkg/uuidgen.control
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3893/whiterussian/package/openvpn/ipkg
+END
+openvpn.control
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3893/whiterussian/package/openvpn/ipkg/openvpn.control
+END
+openvpn-easy-rsa.control
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3893/whiterussian/package/openvpn/ipkg/openvpn-easy-rsa.control
+END

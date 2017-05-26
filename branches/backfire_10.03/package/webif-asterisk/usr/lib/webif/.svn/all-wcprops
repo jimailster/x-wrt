@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/usr/lib/webif
+END
+apply-mars.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/usr/lib/webif/apply-mars.sh
+END
+apply.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/usr/lib/webif/apply.sh
+END
+form.awk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/usr/lib/webif/form.awk
+END

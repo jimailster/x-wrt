@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3953/whiterussian/target/linux/package/spca5xx-le/patches
+END
+100-compile_pud_shift.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3864/whiterussian/target/linux/package/spca5xx-le/patches/100-compile_pud_shift.patch
+END
+200-v4l1goodbye_sync.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3953/whiterussian/target/linux/package/spca5xx-le/patches/200-v4l1goodbye_sync.patch
+END

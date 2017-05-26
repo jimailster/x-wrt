@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4467/tags/kamikaze_7.09/package/webif-lua-coova-chilli-xwrt/ipkg
+END
+coova-chilli-xwrt.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4467/tags/kamikaze_7.09/package/webif-lua-coova-chilli-xwrt/ipkg/coova-chilli-xwrt.postinst
+END
+coova-chilli-xwrt.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4467/tags/kamikaze_7.09/package/webif-lua-coova-chilli-xwrt/ipkg/coova-chilli-xwrt.postrm
+END

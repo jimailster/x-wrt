@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/addon
+END
+uci.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/addon/uci.lua
+END
+string.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/addon/string.lua
+END
+io.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/addon/io.lua
+END

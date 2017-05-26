@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/mnt/disc0_1/asterisk/sounds
+END
+wait-moment.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/mnt/disc0_1/asterisk/sounds/wait-moment.ulaw
+END
+webcall-rcvd.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/mnt/disc0_1/asterisk/sounds/webcall-rcvd.ulaw
+END
+webcall-menu.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-asterisk/mnt/disc0_1/asterisk/sounds/webcall-menu.ulaw
+END

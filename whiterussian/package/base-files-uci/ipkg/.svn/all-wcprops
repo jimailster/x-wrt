@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4129/whiterussian/package/base-files-uci/ipkg
+END
+base-files-uci.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3667/whiterussian/package/base-files-uci/ipkg/base-files-uci.control
+END
+base-files-uci.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4129/whiterussian/package/base-files-uci/ipkg/base-files-uci.postinst
+END

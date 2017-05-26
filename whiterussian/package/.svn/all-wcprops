@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4722/whiterussian/package
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4130/whiterussian/package/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4209/whiterussian/package/Makefile
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3398/whiterussian/package/rules.mk
+END

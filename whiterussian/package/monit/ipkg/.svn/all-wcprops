@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3950/whiterussian/package/monit/ipkg
+END
+monit-nossl.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3950/whiterussian/package/monit/ipkg/monit-nossl.control
+END
+monit.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3914/whiterussian/package/monit/ipkg/monit.control
+END
+monit-nossl.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3950/whiterussian/package/monit/ipkg/monit-nossl.conffiles
+END
+monit.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/monit/ipkg/monit.conffiles
+END

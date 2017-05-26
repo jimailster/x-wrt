@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4049/whiterussian/package/comgt/files
+END
+wwan.button
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/wwan.button
+END
+setpin.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/setpin.gcom
+END
+getcardinfo.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/getcardinfo.gcom
+END
+wwan.chat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/wwan.chat
+END
+S06wwanfix
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4049/whiterussian/package/comgt/files/S06wwanfix
+END
+ifup.wwan
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/ifup.wwan
+END
+ifdown.wwan
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/ifdown.wwan
+END
+wwan.iface
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/wwan.iface
+END
+getstrength.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/getstrength.gcom
+END
+wwan.connect
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/wwan.connect
+END
+setmode.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/comgt/files/setmode.gcom
+END

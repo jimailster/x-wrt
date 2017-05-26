@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3648/tags/kamikaze_7.07/package/webif
+END
+embed_rev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/embed_rev.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/Makefile
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4895/branches/backfire_10.03/package/webif/ipkg
+END
+webif.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4895/branches/backfire_10.03/package/webif/ipkg/webif.postinst
+END
+webif.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4895/branches/backfire_10.03/package/webif/ipkg/webif.preinst
+END

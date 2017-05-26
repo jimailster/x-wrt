@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3896/whiterussian/package/libnids/patches
+END
+001-no_asm_for_i386.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3896/whiterussian/package/libnids/patches/001-no_asm_for_i386.patch
+END
+002-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3896/whiterussian/package/libnids/patches/002-configure.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15/100-uclibc-conf.patch
+END
+600-arm-textrel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15/600-arm-textrel.patch
+END

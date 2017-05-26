@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3867/whiterussian/package/ntp/patches
+END
+101-nosntp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3867/whiterussian/package/ntp/patches/101-nosntp.patch
+END
+100-ntpd_nmea.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3867/whiterussian/package/ntp/patches/100-ntpd_nmea.patch
+END
+102-retcode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3867/whiterussian/package/ntp/patches/102-retcode.patch
+END

@@ -1,0 +1,8 @@
+Package: radvd
+Priority: optional
+Section: ipv6
+Depends: kmod-ipv6
+Description: IPv6 Routing Advertisement Daemon
+ IPv6 Routing Advertisement Daemon.
+ .
+ http://v6web.litech.org/radvd/

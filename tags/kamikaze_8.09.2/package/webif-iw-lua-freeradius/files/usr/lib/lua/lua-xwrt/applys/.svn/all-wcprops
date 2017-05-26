@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua-freeradius/files/usr/lib/lua/lua-xwrt/applys
+END
+freeradius_check.lua
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua-freeradius/files/usr/lib/lua/lua-xwrt/applys/freeradius_check.lua
+END
+freeradius.lua
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua-freeradius/files/usr/lib/lua/lua-xwrt/applys/freeradius.lua
+END
+freeradius_clients.lua
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua-freeradius/files/usr/lib/lua/lua-xwrt/applys/freeradius_clients.lua
+END
+freeradius_proxy.lua
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua-freeradius/files/usr/lib/lua/lua-xwrt/applys/freeradius_proxy.lua
+END

@@ -1,0 +1,5 @@
+Package: tinc
+Priority: optional
+Section: net
+Depends: zlib, liblzo, libopenssl
+Description: VPN tunnel daemon

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3920/whiterussian/package/kismet/ipkg
+END
+kismet.control
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/kismet/ipkg/kismet.control
+END
+kismet-server.control
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3920/whiterussian/package/kismet/ipkg/kismet-server.control
+END
+kismet-client.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3920/whiterussian/package/kismet/ipkg/kismet-client.conffiles
+END
+kismet-drone.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3920/whiterussian/package/kismet/ipkg/kismet-drone.control
+END
+kismet-server.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/kismet/ipkg/kismet-server.conffiles
+END
+kismet-client.control
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3920/whiterussian/package/kismet/ipkg/kismet-client.control
+END
+kismet-drone.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3398/whiterussian/package/kismet/ipkg/kismet-drone.conffiles
+END

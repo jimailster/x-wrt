@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4306/tags/kamikaze_7.09/package/webif/files/etc/init.d
+END
+webiffirewalllog
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3763/tags/kamikaze_7.09/package/webif/files/etc/init.d/webiffirewalllog
+END
+dmesgbackup
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3690/tags/kamikaze_7.09/package/webif/files/etc/init.d/dmesgbackup
+END
+custom-user-startup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif/files/etc/init.d/custom-user-startup
+END
+timezone
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif/files/etc/init.d/timezone
+END
+webif
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4306/tags/kamikaze_7.09/package/webif/files/etc/init.d/webif
+END
+webifssl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif/files/etc/init.d/webifssl
+END
+syslog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4306/tags/kamikaze_7.09/package/webif/files/etc/init.d/syslog
+END
+webifopenvpn
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4306/tags/kamikaze_7.09/package/webif/files/etc/init.d/webifopenvpn
+END
+l2tpns
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4306/tags/kamikaze_7.09/package/webif/files/etc/init.d/l2tpns
+END

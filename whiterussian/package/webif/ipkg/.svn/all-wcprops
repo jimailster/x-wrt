@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4482/whiterussian/package/webif/ipkg
+END
+webif-theme-zephyr.control
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-theme-zephyr.control
+END
+webif-lang-cs.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-cs.control
+END
+webif-lang-es.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-es.control
+END
+webif-lang-fr.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-fr.control
+END
+webif-lang-nl.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-nl.control
+END
+webif-lang-hr.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-hr.control
+END
+webif-lang-pl.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-pl.control
+END
+webif-lang-no.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-no.control
+END
+webif-lang-it.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-it.control
+END
+webif-lang-hu.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-hu.control
+END
+webif-lang-uk.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-uk.control
+END
+webif-lang-ro.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4482/whiterussian/package/webif/ipkg/webif-lang-ro.control
+END
+webif-lang-zh.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-zh.control
+END
+webif.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3739/whiterussian/package/webif/ipkg/webif.control
+END
+webif-lang-ca.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-ca.control
+END
+webif-lang-pt.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-pt.control
+END
+webif-lang-sq.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-sq.control
+END
+webif-lang-da.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-da.control
+END
+webif-theme-xwrt.control
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-theme-xwrt.control
+END
+webif-lang-ru.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-ru.control
+END
+webif.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3742/whiterussian/package/webif/ipkg/webif.postinst
+END
+webif.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3514/whiterussian/package/webif/ipkg/webif.preinst
+END
+webif-lang-de.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-de.control
+END
+webif-lang-sv.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-sv.control
+END
+webif-lang-ee.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-ee.control
+END
+webif-lang-he.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/webif/ipkg/webif-lang-he.control
+END

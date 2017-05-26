@@ -1,0 +1,5 @@
+Package: ulogd-mod-pgsql
+Priority: optional
+Section: net
+Depends: libpq, ulogd
+Description: Output plugin for logging to a PostgreSQL database

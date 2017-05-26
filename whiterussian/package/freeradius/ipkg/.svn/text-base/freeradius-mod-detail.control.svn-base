@@ -1,0 +1,5 @@
+Package: freeradius-mod-detail
+Priority: optional
+Section: net
+Depends: freeradius
+Description: Detailed accounting module

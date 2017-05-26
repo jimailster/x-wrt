@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3880/whiterussian/package/snort/ipkg
+END
+snort.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3880/whiterussian/package/snort/ipkg/snort.control
+END
+snort-mysql.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3880/whiterussian/package/snort/ipkg/snort-mysql.control
+END
+snort.init
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3398/whiterussian/package/snort/ipkg/snort.init
+END
+snort.default
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/snort/ipkg/snort.default
+END
+snort-pgsql.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3880/whiterussian/package/snort/ipkg/snort-pgsql.control
+END
+snort-custom.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3880/whiterussian/package/snort/ipkg/snort-custom.control
+END
+snort.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/snort/ipkg/snort.conffiles
+END

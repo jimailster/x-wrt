@@ -1,0 +1,5 @@
+Package: freeradius-mod-files
+Priority: optional
+Section: net
+Depends: freeradius
+Description: Module using local files for authorization

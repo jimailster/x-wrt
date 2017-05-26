@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3398/whiterussian/package/util-linux/patches
+END
+601-util-linux-2.12r-umount-no-special.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3398/whiterussian/package/util-linux/patches/601-util-linux-2.12r-umount-no-special.patch
+END
+100-llseek.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/util-linux/patches/100-llseek.patch
+END
+501-mconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/util-linux/patches/501-mconfig.patch
+END

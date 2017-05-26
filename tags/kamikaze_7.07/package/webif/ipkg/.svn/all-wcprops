@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/ipkg
+END
+webif.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/ipkg/webif.postinst
+END
+webif.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/ipkg/webif.preinst
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3881/whiterussian/package/sqlite3/ipkg
+END
+libsqlite3.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3881/whiterussian/package/sqlite3/ipkg/libsqlite3.control
+END
+sqlite3-cli.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3881/whiterussian/package/sqlite3/ipkg/sqlite3-cli.control
+END

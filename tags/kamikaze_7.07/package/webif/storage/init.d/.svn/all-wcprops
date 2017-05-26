@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/storage/init.d
+END
+x50dnsmasq.webif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/storage/init.d/x50dnsmasq.webif
+END
+S90pptp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/storage/init.d/S90pptp
+END
+S66upnpd_webif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/storage/init.d/S66upnpd_webif
+END
+S52ez-ipupdate
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/storage/init.d/S52ez-ipupdate
+END
+S60ntp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif/storage/init.d/S60ntp
+END

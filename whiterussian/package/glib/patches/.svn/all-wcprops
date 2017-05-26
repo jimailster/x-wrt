@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3398/whiterussian/package/glib/patches
+END
+02-cross-compile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3398/whiterussian/package/glib/patches/02-cross-compile-fix.patch
+END
+01-debian-9
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/glib/patches/01-debian-9
+END
+04-gcc3.4-fix
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/glib/patches/04-gcc3.4-fix
+END
+03-use-glibconfig-sysdefs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/glib/patches/03-use-glibconfig-sysdefs
+END

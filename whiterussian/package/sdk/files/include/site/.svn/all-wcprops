@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site
+END
+powerpc-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/powerpc-linux-uclibc
+END
+arm-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/arm-linux-uclibc
+END
+linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/linux-uclibc
+END
+armeb-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/armeb-linux-uclibc
+END
+mips-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/mips-linux-uclibc
+END
+mipsel-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/mipsel-linux-uclibc
+END
+i386-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/sdk/files/include/site/i386-linux-uclibc
+END

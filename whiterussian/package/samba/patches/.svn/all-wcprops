@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3398/whiterussian/package/samba/patches
+END
+301-config_files_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/301-config_files_path.patch
+END
+200-security.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/200-security.patch
+END
+250-writex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/250-writex.patch
+END
+101-codepages.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/101-codepages.patch
+END
+400-enhanced_attributes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/400-enhanced_attributes.patch
+END
+300-shared_lib_ldflags_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/300-shared_lib_ldflags_fix.patch
+END
+100-samba.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3398/whiterussian/package/samba/patches/100-samba.patch
+END

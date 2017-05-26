@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3897/whiterussian/package/mysql/patches
+END
+500-cross_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3897/whiterussian/package/mysql/patches/500-cross_compile.patch
+END

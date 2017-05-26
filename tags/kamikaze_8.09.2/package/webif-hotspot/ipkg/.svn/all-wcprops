@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4804/tags/kamikaze_8.09.2/package/webif-hotspot/ipkg
+END
+webif-hotspot.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4804/tags/kamikaze_8.09.2/package/webif-hotspot/ipkg/webif-hotspot.postinst
+END
+webif-hotspot.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4804/tags/kamikaze_8.09.2/package/webif-hotspot/ipkg/webif-hotspot.postrm
+END

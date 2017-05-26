@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif-hotspot/files/usr/lib/webif/lang/template
+END
+hotspot-networking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif-hotspot/files/usr/lib/webif/lang/template/hotspot-networking.txt
+END
+hotspot-core.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif-hotspot/files/usr/lib/webif/lang/template/hotspot-core.txt
+END
+hotspot-captive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3635/tags/kamikaze_7.07/package/webif-hotspot/files/usr/lib/webif/lang/template/hotspot-captive.txt
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg
+END
+quagga.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga.postinst
+END
+quagga-ospfd.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-ospfd.control
+END
+quagga-isisd.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-isisd.control
+END
+quagga-bgpd.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-bgpd.control
+END
+quagga-vtysh.control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-vtysh.control
+END
+quagga-ripd.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-ripd.control
+END
+quagga-ospf6d.control
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-ospf6d.control
+END
+quagga.control
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga.control
+END
+quagga-ripngd.control
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/quagga/ipkg/quagga-ripngd.control
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt
+END
+menu.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/menu.lua
+END
+firewall.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/firewall.lua
+END
+cron_ctrl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/cron_ctrl
+END
+cinit.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/cinit.lua
+END
+iw-addon-string.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/iw-addon-string.lua
+END
+iw-luaipkg.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/iw-luaipkg.lua
+END
+webpkg.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/webpkg.lua
+END
+ucipkg.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/ucipkg.lua
+END
+system.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/system.lua
+END
+uci_iwaddon.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/uci_iwaddon.lua
+END
+apply.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/apply.lua
+END
+net.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/net.lua
+END
+conflictpkgs.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/conflictpkgs.lua
+END
+uciUpdated.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/uciUpdated.lua
+END
+xwrt-apply.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/xwrt-apply.lua
+END
+common.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/common.lua
+END
+common-form.lua
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/common-form.lua
+END
+validate.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/validate.lua
+END
+translator.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/translator.lua
+END
+tbform.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/tbform.lua
+END
+htmlClass.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/htmlClass.lua
+END
+x-wrt-page.lua
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/x-wrt-page.lua
+END
+strform.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/strform.lua
+END
+parsers
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/parsers
+END
+xwrtpage.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/xwrtpage.lua
+END
+init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/init.lua
+END
+form.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/form.lua
+END
+luapkg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-iw-lua/files/usr/lib/lua/lua-xwrt/luapkg
+END

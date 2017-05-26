@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4953/branches/backfire_10.03/package/webif
+END
+create_lang_list.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif/create_lang_list.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4895/branches/backfire_10.03/package/webif/Makefile
+END
+embed_rev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif/embed_rev.sh
+END

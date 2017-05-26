@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3898/whiterussian/package/ulogd/patches
+END
+101-pcap_flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3898/whiterussian/package/ulogd/patches/101-pcap_flags.patch
+END
+103-mysql_real_escape_string_test.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3898/whiterussian/package/ulogd/patches/103-mysql_real_escape_string_test.patch
+END
+102-inc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3898/whiterussian/package/ulogd/patches/102-inc.patch
+END

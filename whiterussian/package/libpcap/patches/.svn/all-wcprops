@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3398/whiterussian/package/libpcap/patches
+END
+101-cross-compile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/libpcap/patches/101-cross-compile-fix.patch
+END
+102-alt-ether.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/libpcap/patches/102-alt-ether.patch
+END
+100-shared-lib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/libpcap/patches/100-shared-lib.patch
+END

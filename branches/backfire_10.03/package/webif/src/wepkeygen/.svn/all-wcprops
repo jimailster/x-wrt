@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif/src/wepkeygen
+END
+keygen.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif/src/wepkeygen/keygen.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif/src/wepkeygen/md5.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif/src/wepkeygen/md5.h
+END

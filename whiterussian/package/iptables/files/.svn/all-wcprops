@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3398/whiterussian/package/iptables/files
+END
+firewall.config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/iptables/files/firewall.config
+END
+firewall.user
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/iptables/files/firewall.user
+END
+firewall.awk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3398/whiterussian/package/iptables/files/firewall.awk
+END
+firewall.init
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/iptables/files/firewall.init
+END

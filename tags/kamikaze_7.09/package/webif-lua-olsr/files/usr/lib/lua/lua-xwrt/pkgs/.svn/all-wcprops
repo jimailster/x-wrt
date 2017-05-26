@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4474/tags/kamikaze_7.09/package/webif-lua-olsr/files/usr/lib/lua/lua-xwrt/pkgs
+END
+olsrdata.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4474/tags/kamikaze_7.09/package/webif-lua-olsr/files/usr/lib/lua/lua-xwrt/pkgs/olsrdata.lua
+END
+olsr.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4468/tags/kamikaze_7.09/package/webif-lua-olsr/files/usr/lib/lua/lua-xwrt/pkgs/olsr.lua
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4066/whiterussian/package/libnet-1.1.x/patches
+END
+100-debian-subset.patch.gz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4066/whiterussian/package/libnet-1.1.x/patches/100-debian-subset.patch.gz
+END
+150-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4066/whiterussian/package/libnet-1.1.x/patches/150-portability.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4234/whiterussian/target/linux
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3398/whiterussian/target/linux/Makefile
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3398/whiterussian/target/linux/rules.mk
+END
+netfilter.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3398/whiterussian/target/linux/netfilter.mk
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4232/whiterussian/target/linux/Config.in
+END

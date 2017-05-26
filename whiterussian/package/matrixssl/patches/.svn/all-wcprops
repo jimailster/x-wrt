@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3398/whiterussian/package/matrixssl/patches
+END
+001-matrixssl_no_timex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/matrixssl/patches/001-matrixssl_no_timex.patch
+END
+002-matrixssl_1.2.4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/matrixssl/patches/002-matrixssl_1.2.4.patch
+END
+003-matrixssl_typefix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3398/whiterussian/package/matrixssl/patches/003-matrixssl_typefix.patch
+END

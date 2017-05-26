@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-fonheartbeat/ipkg
+END
+webif-fonheartbeat.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-fonheartbeat/ipkg/webif-fonheartbeat.postinst
+END
+webif-fonheartbeat.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/kamikaze_8.09.1/package/webif-fonheartbeat/ipkg/webif-fonheartbeat.postrm
+END

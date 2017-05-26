@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches
+END
+170-strftime-dstrules-backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/170-strftime-dstrules-backport.patch
+END
+150-signal-handler-crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/150-signal-handler-crash.patch
+END
+120-more_standard_math.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/120-more_standard_math.patch
+END
+130-inet_resolv_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/130-inet_resolv_backport.patch
+END
+110-inet6_hosts_resolve.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/110-inet6_hosts_resolve.patch
+END
+100-gcc4_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/100-gcc4_fix.patch
+END
+140-ipv6_missing_sockopts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/140-ipv6_missing_sockopts.patch
+END
+160-mips-pipe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/toolchain/uClibc/patches/160-mips-pipe.patch
+END

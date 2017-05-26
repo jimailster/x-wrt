@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-vpn/files/www/cgi-bin/webif
+END
+vpn-l2tpns.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-vpn/files/www/cgi-bin/webif/vpn-l2tpns.sh
+END
+vpn-pptp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-vpn/files/www/cgi-bin/webif/vpn-pptp.sh
+END
+status-pptp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-vpn/files/www/cgi-bin/webif/status-pptp.sh
+END
+vpn-openvpn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-vpn/files/www/cgi-bin/webif/vpn-openvpn.sh
+END
+status-openvpn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-vpn/files/www/cgi-bin/webif/status-openvpn.sh
+END

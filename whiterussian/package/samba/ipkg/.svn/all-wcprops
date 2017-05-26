@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3398/whiterussian/package/samba/ipkg
+END
+samba-client.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/samba/ipkg/samba-client.control
+END
+samba-common.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/samba/ipkg/samba-common.conffiles
+END
+samba-server.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/samba/ipkg/samba-server.control
+END
+samba-common.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/samba/ipkg/samba-common.control
+END

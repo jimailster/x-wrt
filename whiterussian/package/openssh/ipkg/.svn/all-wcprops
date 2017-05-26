@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg
+END
+openssh-client.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-client.conffiles
+END
+openssh-server.control
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-server.control
+END
+openssh-sftp-client.control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-sftp-client.control
+END
+openssh-server.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-server.postinst
+END
+openssh-client-utils.control
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-client-utils.control
+END
+openssh-client.control
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-client.control
+END
+openssh-server.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-server.conffiles
+END
+openssh-sftp-server.control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/openssh/ipkg/openssh-sftp-server.control
+END

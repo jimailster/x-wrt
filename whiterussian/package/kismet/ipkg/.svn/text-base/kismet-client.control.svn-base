@@ -1,0 +1,10 @@
+Package: kismet-client
+Priority: optional
+Section: net
+Depends: uclibcxx, libncurses
+Description: Kismet client.
+ An 802.11 layer2 wireless network detector, sniffer, and intrusion 
+ detection system.
+ This package contains the kismet text interface client.
+ .
+ http://www.kismetwireless.net/

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3737/whiterussian/package/unzip/ipkg
+END
+unzip-tools.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3737/whiterussian/package/unzip/ipkg/unzip-tools.control
+END
+unzip.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3737/whiterussian/package/unzip/ipkg/unzip.control
+END

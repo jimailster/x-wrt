@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches
+END
+003-gdbm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/003-gdbm.patch
+END
+007-time_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/007-time_h.patch
+END
+005-openssl_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/005-openssl_fix.patch
+END
+001-arpspoof_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/001-arpspoof_fix.patch
+END
+006-pcap_header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/006-pcap_header.patch
+END
+001-dns.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/001-dns.patch
+END
+004-no_yp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3883/whiterussian/package/dsniff/patches/004-no_yp.patch
+END

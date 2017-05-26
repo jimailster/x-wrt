@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3398/whiterussian/package/tcpdump/patches
+END
+remove-pcap-debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3398/whiterussian/package/tcpdump/patches/remove-pcap-debug.patch
+END

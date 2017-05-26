@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3398/whiterussian/package/webif/src/int2human
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/webif/src/int2human/main.c
+END
+human_readable.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/webif/src/int2human/human_readable.c
+END
+human_readable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/webif/src/int2human/human_readable.h
+END

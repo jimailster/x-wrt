@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4262/whiterussian/package/webif/files/etc
+END
+httpd.webif
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3398/whiterussian/package/webif/files/etc/httpd.webif
+END
+dnsmasq.options
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3850/whiterussian/package/webif/files/etc/dnsmasq.options
+END
+syslog.default
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3685/whiterussian/package/webif/files/etc/syslog.default
+END
+functions-net.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3850/whiterussian/package/webif/files/etc/functions-net.sh
+END

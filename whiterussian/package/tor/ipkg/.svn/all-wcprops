@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3760/whiterussian/package/tor/ipkg
+END
+tor.control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3760/whiterussian/package/tor/ipkg/tor.control
+END
+tor.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3760/whiterussian/package/tor/ipkg/tor.postinst
+END
+tor.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/package/tor/ipkg/tor.conffiles
+END

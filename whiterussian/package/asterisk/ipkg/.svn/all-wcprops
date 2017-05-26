@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg
+END
+asterisk-mini.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-mini.conffiles
+END
+asterisk-codec-ilbc.control
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-codec-ilbc.control
+END
+asterisk-chan-mgcp.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-chan-mgcp.conffiles
+END
+asterisk-pgsql.control
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-pgsql.control
+END
+asterisk-res-agi.control
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-res-agi.control
+END
+asterisk.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk.conffiles
+END
+asterisk-pbx-dundi.control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-pbx-dundi.control
+END
+asterisk-codec-lpc10.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-codec-lpc10.control
+END
+asterisk-mini.control
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-mini.control
+END
+asterisk-mysql.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-mysql.conffiles
+END
+asterisk-chan-mgcp.control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-chan-mgcp.control
+END
+asterisk-codec-speex.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-codec-speex.control
+END
+asterisk-voicemail.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-voicemail.conffiles
+END
+asterisk.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk.control
+END
+asterisk-mysql.control
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-mysql.control
+END
+asterisk-voicemail.control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-voicemail.control
+END
+asterisk-chan-skinny.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-chan-skinny.conffiles
+END
+asterisk-sounds.control
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-sounds.control
+END
+asterisk-pgsql.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-pgsql.conffiles
+END
+asterisk-pbx-dundi.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-pbx-dundi.conffiles
+END
+asterisk-chan-skinny.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/asterisk/ipkg/asterisk-chan-skinny.control
+END

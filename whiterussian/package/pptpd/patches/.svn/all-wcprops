@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3398/whiterussian/package/pptpd/patches
+END
+bad-pqueue-debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/pptpd/patches/bad-pqueue-debug.patch
+END
+pptpgre-use-debug-option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/pptpd/patches/pptpgre-use-debug-option.patch
+END

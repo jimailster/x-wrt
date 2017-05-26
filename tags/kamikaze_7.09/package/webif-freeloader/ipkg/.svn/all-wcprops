@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif-freeloader/ipkg
+END
+webif-freeloader-lang-cs.control
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif-freeloader/ipkg/webif-freeloader-lang-cs.control
+END
+webif-freeloader.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif-freeloader/ipkg/webif-freeloader.postinst
+END
+webif-freeloader.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif-freeloader/ipkg/webif-freeloader.postrm
+END
+webif-freeloader.control
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3645/tags/kamikaze_7.09/package/webif-freeloader/ipkg/webif-freeloader.control
+END

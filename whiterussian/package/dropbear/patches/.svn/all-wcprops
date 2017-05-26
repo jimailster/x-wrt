@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3563/whiterussian/package/dropbear/patches
+END
+150-dbconvert_standalone.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3398/whiterussian/package/dropbear/patches/150-dbconvert_standalone.patch
+END
+110-change_user.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/dropbear/patches/110-change_user.patch
+END
+130-ssh_ignore_o_and_x_args.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3398/whiterussian/package/dropbear/patches/130-ssh_ignore_o_and_x_args.patch
+END
+100-pubkey_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/dropbear/patches/100-pubkey_path.patch
+END
+160-tty_close.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3563/whiterussian/package/dropbear/patches/160-tty_close.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2
+END
+300-006_better_file_error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2/300-006_better_file_error.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2/100-uclibc-conf.patch
+END
+702-binutils-skip-comments.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2/702-binutils-skip-comments.patch
+END
+300-120_mips_xgot_multigot_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2/300-120_mips_xgot_multigot_workaround.patch
+END
+300-001_ld_makefile_patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2/300-001_ld_makefile_patch.patch
+END
+300-012_check_ldrunpath_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3398/whiterussian/toolchain/binutils/2.15.94.0.2.2/300-012_check_ldrunpath_length.patch
+END

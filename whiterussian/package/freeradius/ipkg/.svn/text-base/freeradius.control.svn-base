@@ -1,0 +1,5 @@
+Package: freeradius
+Priority: optional
+Section: net
+Description: A flexible RADIUS server
+Depends: libltdl, libopenssl, libpthread

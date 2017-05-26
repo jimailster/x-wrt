@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3656/whiterussian/package/file/patches
+END
+104-quick.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3656/whiterussian/package/file/patches/104-quick.patch
+END
+106-xen.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3656/whiterussian/package/file/patches/106-xen.patch
+END
+103-fsdump.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3656/whiterussian/package/file/patches/103-fsdump.patch
+END
+001-debian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3656/whiterussian/package/file/patches/001-debian.patch
+END
+102-magic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3656/whiterussian/package/file/patches/102-magic.patch
+END
+109-bash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3656/whiterussian/package/file/patches/109-bash.patch
+END
+002-ELF.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3656/whiterussian/package/file/patches/002-ELF.patch
+END
+105-berkeley.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3656/whiterussian/package/file/patches/105-berkeley.patch
+END
+101-selinux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3656/whiterussian/package/file/patches/101-selinux.patch
+END
+110-ooffice.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3656/whiterussian/package/file/patches/110-ooffice.patch
+END
+108-clamav.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3656/whiterussian/package/file/patches/108-clamav.patch
+END
+107-oracle.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3656/whiterussian/package/file/patches/107-oracle.patch
+END
+108-powerpoint.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3656/whiterussian/package/file/patches/108-powerpoint.patch
+END

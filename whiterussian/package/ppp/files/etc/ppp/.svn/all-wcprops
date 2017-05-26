@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp/options
+END
+radius.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp/radius.conf
+END
+ip-down
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp/ip-down
+END
+chap-secrets
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp/chap-secrets
+END
+filter
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp/filter
+END
+ip-up
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3398/whiterussian/package/ppp/files/etc/ppp/ip-up
+END

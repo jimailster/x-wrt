@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg
+END
+chat.control
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/chat.control
+END
+ppp.control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/ppp.control
+END
+ppp-mod-radius.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/ppp-mod-radius.control
+END
+pppdump.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/pppdump.control
+END
+ppp.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/ppp.conffiles
+END
+ppp-mod-radius.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/ppp-mod-radius.conffiles
+END
+ppp-mod-pppoe.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/ppp-mod-pppoe.control
+END
+pppstats.control
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3398/whiterussian/package/ppp/ipkg/pppstats.control
+END

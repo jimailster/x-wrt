@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3914/whiterussian/package/monit/patches
+END
+01-no_sslv2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3914/whiterussian/package/monit/patches/01-no_sslv2.patch
+END

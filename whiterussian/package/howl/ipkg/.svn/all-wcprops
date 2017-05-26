@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg
+END
+mdnsresponder.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg/mdnsresponder.conffiles
+END
+libhowl.control
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg/libhowl.control
+END
+nifd.control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg/nifd.control
+END
+mdnsresponder.control
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg/mdnsresponder.control
+END
+autoipd.control
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg/autoipd.control
+END
+howl-utils.control
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3398/whiterussian/package/howl/ipkg/howl-utils.control
+END

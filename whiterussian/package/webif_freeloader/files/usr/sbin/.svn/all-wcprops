@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3850/whiterussian/package/webif_freeloader/files/usr/sbin
+END
+killfreeloader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3850/whiterussian/package/webif_freeloader/files/usr/sbin/killfreeloader.sh
+END
+getfreeloader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3850/whiterussian/package/webif_freeloader/files/usr/sbin/getfreeloader.sh
+END

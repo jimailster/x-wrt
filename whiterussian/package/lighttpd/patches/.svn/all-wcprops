@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3841/whiterussian/package/lighttpd/patches
+END
+500-configure_cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3841/whiterussian/package/lighttpd/patches/500-configure_cross.patch
+END

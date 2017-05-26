@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3853/whiterussian/package/pptpd/ipkg
+END
+bcrelay.control
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3853/whiterussian/package/pptpd/ipkg/bcrelay.control
+END
+pptpd.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/pptpd/ipkg/pptpd.control
+END
+pptpd.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3398/whiterussian/package/pptpd/ipkg/pptpd.conffiles
+END

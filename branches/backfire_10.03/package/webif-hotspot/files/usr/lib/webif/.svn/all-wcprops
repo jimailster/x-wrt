@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-hotspot/files/usr/lib/webif
+END
+apply-hotspot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-hotspot/files/usr/lib/webif/apply-hotspot.sh
+END

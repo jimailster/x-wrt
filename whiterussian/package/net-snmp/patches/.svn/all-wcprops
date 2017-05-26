@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3398/whiterussian/package/net-snmp/patches
+END
+750-ieee802dot11.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3398/whiterussian/package/net-snmp/patches/750-ieee802dot11.patch
+END
+500-debian-subset-5.1.2-6.1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3398/whiterussian/package/net-snmp/patches/500-debian-subset-5.1.2-6.1.patch
+END
+901-ipsec-interfaces.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3398/whiterussian/package/net-snmp/patches/901-ipsec-interfaces.patch
+END

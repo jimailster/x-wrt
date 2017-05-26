@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4686/wib/app/streamlined
+END
+filesystem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4686/wib/app/streamlined/filesystem.rb
+END
+board.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4686/wib/app/streamlined/board.rb
+END
+maintainer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4686/wib/app/streamlined/maintainer.rb
+END
+feature.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/app/streamlined/feature.rb
+END
+package.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4686/wib/app/streamlined/package.rb
+END
+preselection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4686/wib/app/streamlined/preselection.rb
+END
+category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4686/wib/app/streamlined/category.rb
+END
+arch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4686/wib/app/streamlined/arch.rb
+END
+device.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4686/wib/app/streamlined/device.rb
+END
+kernel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4686/wib/app/streamlined/kernel.rb
+END
+os_kernel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4686/wib/app/streamlined/os_kernel.rb
+END

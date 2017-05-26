@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3907/whiterussian/package/libdnet/patches
+END
+001-dnet_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3907/whiterussian/package/libdnet/patches/001-dnet_config.patch
+END
+010-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3907/whiterussian/package/libdnet/patches/010-gcc4.patch
+END

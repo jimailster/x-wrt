@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3564/whiterussian/package/haserl/patches
+END
+101-ignore_content_disposition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3564/whiterussian/package/haserl/patches/101-ignore_content_disposition.patch
+END
+100-cookie_prefix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/haserl/patches/100-cookie_prefix.patch
+END

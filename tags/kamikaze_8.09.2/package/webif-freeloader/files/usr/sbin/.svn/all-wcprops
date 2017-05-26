@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-freeloader/files/usr/sbin
+END
+killfreeloader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-freeloader/files/usr/sbin/killfreeloader.sh
+END
+getfreeloader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-freeloader/files/usr/sbin/getfreeloader.sh
+END

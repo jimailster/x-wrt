@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3398/whiterussian/package/wireless-tools/ipkg
+END
+wireless-tools.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/wireless-tools/ipkg/wireless-tools.control
+END
+iwlib.control
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3398/whiterussian/package/wireless-tools/ipkg/iwlib.control
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4234/whiterussian/target/linux/linux-2.4/patches/brcm
+END
+010-bcm47xx-cam_absent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/010-bcm47xx-cam_absent.patch
+END
+030-memsize_by_aliases.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4009/whiterussian/target/linux/linux-2.4/patches/brcm/030-memsize_by_aliases.patch
+END
+007-b44_bcm47xx_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/007-b44_bcm47xx_support.patch
+END
+020-nvram_crc_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/020-nvram_crc_check.patch
+END
+002-wl_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/002-wl_fix.patch
+END
+008-wrt54g3g_pcmcia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/008-wrt54g3g_pcmcia.patch
+END
+001-bcm47xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4234/whiterussian/target/linux/linux-2.4/patches/brcm/001-bcm47xx.patch
+END
+003-bcm47xx_cache_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/003-bcm47xx_cache_fixes.patch
+END
+004-ide_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/004-ide_workaround.patch
+END
+006-sched_use_tsc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3398/whiterussian/target/linux/linux-2.4/patches/brcm/006-sched_use_tsc.patch
+END

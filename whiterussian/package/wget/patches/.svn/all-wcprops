@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3814/whiterussian/package/wget/patches
+END
+200-openssl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3814/whiterussian/package/wget/patches/200-openssl.patch
+END
+100-ptimer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3814/whiterussian/package/wget/patches/100-ptimer.patch
+END

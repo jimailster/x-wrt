@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4049/whiterussian/package/base-files/default/etc/init.d
+END
+S40network
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/etc/init.d/S40network
+END
+S50telnet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/etc/init.d/S50telnet
+END
+rcS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4002/whiterussian/package/base-files/default/etc/init.d/rcS
+END
+S10boot
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/etc/init.d/S10boot
+END
+S99done
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/etc/init.d/S99done
+END
+S60cron
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/etc/init.d/S60cron
+END
+S50httpd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3398/whiterussian/package/base-files/default/etc/init.d/S50httpd
+END
+S05nvram
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4049/whiterussian/package/base-files/default/etc/init.d/S05nvram
+END

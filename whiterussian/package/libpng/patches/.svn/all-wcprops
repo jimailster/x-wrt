@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3398/whiterussian/package/libpng/patches
+END
+100-config_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3398/whiterussian/package/libpng/patches/100-config_fix.patch
+END
+101-pkgconfig-install.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3398/whiterussian/package/libpng/patches/101-pkgconfig-install.patch
+END

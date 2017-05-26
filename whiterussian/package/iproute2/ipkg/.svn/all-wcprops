@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3398/whiterussian/package/iproute2/ipkg
+END
+ip.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/iproute2/ipkg/ip.control
+END
+tc.control
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3398/whiterussian/package/iproute2/ipkg/tc.control
+END

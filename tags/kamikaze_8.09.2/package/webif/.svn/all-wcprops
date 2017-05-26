@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4845/tags/kamikaze_8.09.2/package/webif
+END
+create_lang_list.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif/create_lang_list.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif/Makefile
+END
+embed_rev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif/embed_rev.sh
+END

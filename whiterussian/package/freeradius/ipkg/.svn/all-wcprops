@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg
+END
+freeradius-mod-sql.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-sql.control
+END
+freeradius-mod-sqlcounter.control
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-sqlcounter.control
+END
+freeradius-mod-realm.control
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-realm.control
+END
+freeradius-mod-files.control
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-files.control
+END
+freeradius-mod-detail.control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-detail.control
+END
+freeradius-mod-sql-mysql.control
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-sql-mysql.control
+END
+freeradius-mod-eap-tls.control
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap-tls.control
+END
+freeradius-mod-eap.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap.control
+END
+freeradius-democerts.control
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-democerts.control
+END
+freeradius-mod-ldap.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius-mod-ldap.conffiles
+END
+freeradius-mod-mschap.control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-mschap.control
+END
+freeradius-mod-chap.control
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-chap.control
+END
+freeradius.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius.conffiles
+END
+freeradius-mod-preprocess.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius-mod-preprocess.conffiles
+END
+freeradius-mod-eap-gtc.control
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap-gtc.control
+END
+freeradius-mod-ldap.control
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-ldap.control
+END
+freeradius-mod-pap.control
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-pap.control
+END
+freeradius-utils.control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-utils.control
+END
+freeradius-mod-sql-pgsql.control
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-sql-pgsql.control
+END
+freeradius.control
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius.control
+END
+freeradius-mod-preprocess.control
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-preprocess.control
+END
+freeradius-mod-eap-mschapv2.control
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap-mschapv2.control
+END
+freeradius-mod-sql.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius-mod-sql.conffiles
+END
+freeradius-mod-realm.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius-mod-realm.conffiles
+END
+freeradius-mod-eap-peap.control
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap-peap.control
+END
+freeradius-mod-eap-md5.control
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap-md5.control
+END
+freeradius-mod-eap-ttls.control
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3918/whiterussian/package/freeradius/ipkg/freeradius-mod-eap-ttls.control
+END
+freeradius-mod-files.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius-mod-files.conffiles
+END
+freeradius-mod-eap.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3398/whiterussian/package/freeradius/ipkg/freeradius-mod-eap.conffiles
+END

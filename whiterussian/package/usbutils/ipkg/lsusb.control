@@ -1,0 +1,5 @@
+Package: lsusb
+Priority: optional
+Section: utils
+Depends: libusb
+Description: USB devices listing utilities

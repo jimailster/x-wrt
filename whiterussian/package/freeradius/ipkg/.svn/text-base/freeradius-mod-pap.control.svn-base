@@ -1,0 +1,5 @@
+Package: freeradius-mod-pap
+Priority: optional
+Section: net
+Depends: freeradius
+Description: PAP module

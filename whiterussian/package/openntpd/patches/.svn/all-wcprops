@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3867/whiterussian/package/openntpd/patches
+END
+002-save_freq_drift.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3867/whiterussian/package/openntpd/patches/002-save_freq_drift.patch
+END
+001-adjtimex_linux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3867/whiterussian/package/openntpd/patches/001-adjtimex_linux.patch
+END

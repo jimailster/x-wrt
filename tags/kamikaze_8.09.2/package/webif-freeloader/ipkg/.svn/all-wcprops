@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-freeloader/ipkg
+END
+webif-freeloader.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-freeloader/ipkg/webif-freeloader.postinst
+END
+webif-freeloader.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4802/tags/kamikaze_8.09.2/package/webif-freeloader/ipkg/webif-freeloader.postrm
+END

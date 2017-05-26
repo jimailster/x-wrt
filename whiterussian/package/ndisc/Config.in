@@ -1,0 +1,35 @@
+menu "ndisc6/rdisc6/tcptraceroute6 - IPv6 discovery tools"
+
+config BR2_PACKAGE_NDISC
+	tristate
+	default n
+	depends BR2_PACKAGE_NDISC6 || BR2_PACKAGE_RDISC6
+
+config BR2_PACKAGE_NDISC6
+	tristate "ndisc6 - An ICMPv6 neighbour discovery tool"
+	default m if CONFIG_DEVEL
+	select BR2_PACKAGE_NDISC
+	help
+	  An ICMPv6 neighbour discovery tools
+	  
+	  http://people.via.ecp.fr/~rem/ndisc6/
+
+config BR2_PACKAGE_RDISC6
+	tristate "rdisc6 - An ICMPv6 router discovery tool"
+	default m if CONFIG_DEVEL
+	select BR2_PACKAGE_NDISC
+	help
+	  An ICMPv6 router discovery tool
+	  
+	  http://people.via.ecp.fr/~rem/ndisc6/
+
+config BR2_PACKAGE_TCPTRACEROUTE6
+	tristate "tcptraceroute6 - A TCP/IPv6-based traceroute implementation"
+	default m if CONFIG_DEVEL
+	select BR2_PACKAGE_NDISC
+	help
+	  A TCP/IPv6-based traceroute implementation
+	  
+	  http://people.via.ecp.fr/~rem/ndisc6/
+
+endmenu

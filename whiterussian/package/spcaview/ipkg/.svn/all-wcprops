@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3864/whiterussian/package/spcaview/ipkg
+END
+spcacat.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3864/whiterussian/package/spcaview/ipkg/spcacat.conffiles
+END
+spcaserv.control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3864/whiterussian/package/spcaview/ipkg/spcaserv.control
+END
+spcacat.control
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3864/whiterussian/package/spcaview/ipkg/spcacat.control
+END
+spcaserv.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3864/whiterussian/package/spcaview/ipkg/spcaserv.conffiles
+END

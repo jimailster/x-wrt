@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3864/whiterussian/package/spcaview/patches
+END
+100-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3864/whiterussian/package/spcaview/patches/100-Makefile.patch
+END
+200-olddev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3864/whiterussian/package/spcaview/patches/200-olddev.patch
+END

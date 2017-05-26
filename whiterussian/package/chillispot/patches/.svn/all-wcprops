@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3756/whiterussian/package/chillispot/patches
+END
+102-less_memory-footprint.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3756/whiterussian/package/chillispot/patches/102-less_memory-footprint.patch
+END
+001-endian_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3756/whiterussian/package/chillispot/patches/001-endian_fix.patch
+END

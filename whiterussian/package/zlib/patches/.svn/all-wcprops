@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3731/whiterussian/package/zlib/patches
+END
+100-cross_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3731/whiterussian/package/zlib/patches/100-cross_compile.patch
+END

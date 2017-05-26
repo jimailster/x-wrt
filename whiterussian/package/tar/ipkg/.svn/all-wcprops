@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3816/whiterussian/package/tar/ipkg
+END
+tar.control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3815/whiterussian/package/tar/ipkg/tar.control
+END
+tar.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3816/whiterussian/package/tar/ipkg/tar.preinst
+END
+tar.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3816/whiterussian/package/tar/ipkg/tar.postrm
+END

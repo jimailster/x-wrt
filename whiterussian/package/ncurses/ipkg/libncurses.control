@@ -1,0 +1,7 @@
+Package: libncurses
+Priority: optional
+Section: libs
+Description: Terminal handling library
+ Terminal handling library
+ .
+ http://www.gnu.org/software/ncurses/

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3745/whiterussian/package/ushare/patches
+END
+200-no_default_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3745/whiterussian/package/ushare/patches/200-no_default_config.patch
+END
+100-iface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3745/whiterussian/package/ushare/patches/100-iface.patch
+END

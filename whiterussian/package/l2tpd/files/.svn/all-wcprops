@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/files
+END
+l2tpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3917/whiterussian/package/l2tpd/files/l2tpd.init
+END
+l2tpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3398/whiterussian/package/l2tpd/files/l2tpd.conf
+END
+options.l2tpd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3398/whiterussian/package/l2tpd/files/options.l2tpd
+END

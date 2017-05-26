@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl
+END
+ca-build
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl/ca-build
+END
+cert-revoke
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl/cert-revoke
+END
+dh-build
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl/dh-build
+END
+openssl.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl/openssl.cnf
+END
+cert-build
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl/cert-build
+END
+read_uci
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4889/branches/backfire_10.03/package/webif-iw-lua-openssl/files/etc/openssl/read_uci
+END
